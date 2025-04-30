@@ -2,14 +2,14 @@
 # Table of Contents
 
 - [Introduction](#introduction)
-- [Engineering influencers on LinkedIn worth following](#engineering-influencers-on-linkedin-worth-following)
-- [Best articles on software engineering](#best-articles-on-software-engineering)
+- [Software Engineering influencers on LinkedIn worth following](#software-engineering-influencers-on-linkedin-worth-following)
+- [Articles on software engineering every engineer should read](#articles-on-software-engineering-every-engineer-should-read)
 
 # Introduction
 
 I used to find interesting insightful articles on software engineering through Hacker New. Lately, I’ve found that LinkedIn became a much bigger source of learning for me. In this repo I'm sharing my collection of articles that I found insightful and also linkedin people I've been following.
 
-# Engineering influencers on LinkedIn worth following
+# Software Engineering influencers on LinkedIn worth following
 
 
 * [Alex Chiou](https://www.linkedin.com/in/alexander-chiou/) Ex-Meta Tech Lead, has unique perspective on writing tests; Alex shared very interesting stories about his career in Meta; I learned a lot from Alex about how senior and staff software engineers approach problems differently compared to  mid/junior engineers;
@@ -20,7 +20,7 @@ I used to find interesting insightful articles on software engineering through H
 * [Sukhad Anand](https://www.linkedin.com/in/sukhad007/), Senior Software Engineer at Google, system design topics;
 * [Vedran B.](https://www.linkedin.com/in/vb-software/) has very innovative perspective on software egineering architecture (provides alternative to DDD).
 
-# Best articles on software engineering
+# Articles on software engineering every engineer should read
 
 * [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/) ([HN](https://news.ycombinator.com/item?id=42627227))
 
