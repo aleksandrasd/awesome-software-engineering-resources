@@ -1,4 +1,26 @@
-## Articles
+
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Engineering influencers on LinkedIn worth following](#engineering-influencers-on-linkedin-worth-following)
+- [Best articles on software engineering](#best-articles-on-software-engineering)
+
+# Introduction
+
+I used to find interesting insightful articles on software engineering through Hacker New. Lately, I’ve found that LinkedIn became a much bigger source of learning for me. In this repo I'm sharing my collection of articles that I found insightful and also linkedin people I've been following.
+
+# Engineering influencers on LinkedIn worth following
+
+
+* [Alex Chiou](https://www.linkedin.com/in/alexander-chiou/) Ex-Meta Tech Lead, has unique perspective on writing tests; Alex shared very interesting stories about his career in Meta; I learned a lot from Alex about how senior and staff software engineers approach problems differently compared to  mid/junior engineers;
+* [Zach Wilson](https://www.linkedin.com/in/eczachly/) is Ex-AirBnb Staff data engineer, shared a lot of interesting stories from his carrer in Airbnb; I learn a lot about data engineering from Zach;
+* [Shalini Goyal](https://www.linkedin.com/in/goyalshalini/) interesting posts on system design topics;
+* [Ashish Pratap Singh](https://www.linkedin.com/in/ashishps1/)  has [fantastic github repo with material collection on system design](https://github.com/ashishps1/awesome-system-design-resources) (has best resources on caching);
+* [Arpit Bhayani](https://www.linkedin.com/in/arpitbhayani/) Staff Engineer at Google Ads, system design topics;
+* [Sukhad Anand](https://www.linkedin.com/in/sukhad007/), Senior Software Engineer at Google, system design topics;
+* [Vedran B.](https://www.linkedin.com/in/vb-software/) has very innovative perspective on software egineering architecture (provides alternative to DDD).
+
+# Best articles on software engineering
 
 * [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/) ([HN](https://news.ycombinator.com/item?id=42627227))
 
